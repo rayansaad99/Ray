@@ -1,5 +1,3 @@
-
-#Author :Ray
 #this program is for refreshing a page to find a KEY word in about page .
 import sys
 import urllib2
@@ -10,3 +8,4 @@ while true:
 	
         print(about_page)
         sys.exit(0)
+
